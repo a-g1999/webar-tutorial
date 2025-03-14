@@ -53,7 +53,7 @@ ios-src="https://raw.githubusercontent.com/<your-username>/webar-tutorial/main/y
 3. Under Branch, select main and click Save.
 4. Your WebAR page will be published at:
 ```bash
-https://<your-username>.github.io/webar-tutorial/.
+https://<a-g1999>.github.io/webar-tutorial/.
 ```
 ---
 
